@@ -1,2 +1,2 @@
-# pink.github.io
+# Siarhei-Chaptsau.github.io
 Site with Gulp, Sass and BEM for portfolio
