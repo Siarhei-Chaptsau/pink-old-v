@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 <a class="portfolio__item-link" href="https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html" target="_blank">открыть</a>
 ```
+[https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html](url)
+[Link](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
