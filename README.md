@@ -28,7 +28,9 @@ Syntax highlighted code block
 
 href="https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html"
 ```
-[Lambda-Restaurant](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html)
+[Lambda-Restaurant](http://Siarhei-Chaptsau.github.io/Lambda-Restaurant/)
+
+
 [Lambda-Restaurant](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/)
 
 
