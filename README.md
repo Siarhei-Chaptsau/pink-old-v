@@ -28,9 +28,8 @@ Syntax highlighted code block
 
 href="https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html"
 ```
-[https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html](url)
-
-[Link](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html)
+[Lambda-Restaurant](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html)
+[Lambda-Restaurant](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
