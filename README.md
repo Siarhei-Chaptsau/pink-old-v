@@ -1,6 +1,6 @@
 
 [Lambda-Restaurant](http://Siarhei-Chaptsau.github.io/Lambda-Restaurant/)
-[pink](http://Siarhei-Chaptsau.github.io/245963-pink/)
+[Pink](http://Siarhei-Chaptsau.github.io/Pink/)
 
 
 
