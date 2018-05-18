@@ -24,10 +24,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-<a class="portfolio__item-link" href="https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html" target="_blank">открыть</a>
+
+
+href="https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html"
 ```
 [https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html](url)
+
 [Link](https://github.com/Siarhei-Chaptsau/Lambda-Restaurant/index.html)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
