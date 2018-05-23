@@ -13,4 +13,4 @@
 
 [Quick-Draw-Scoreboard](https://Siarhei-Chaptsau.github.io/Quick-Draw-Scoreboard/)
 
-[keksobooking](https://Siarhei-Chaptsau.github.io/keksobooking/)
+[Keksobooking](https://Siarhei-Chaptsau.github.io/Keksobooking/)
