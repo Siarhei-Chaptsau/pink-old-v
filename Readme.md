@@ -10,3 +10,7 @@
 [Racoon-blog](https://Siarhei-Chaptsau.github.io/Racoon-blog/)
 
 [Match-match-game](https://Siarhei-Chaptsau.github.io/Match-match-game/)
+
+[Quick-Draw-Scoreboard](https://Siarhei-Chaptsau.github.io/Quick-Draw-Scoreboard/)
+
+[keksobooking](https://Siarhei-Chaptsau.github.io/keksobooking/)
